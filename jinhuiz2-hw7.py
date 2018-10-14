@@ -51,3 +51,7 @@ plt.xticks(range(X_train.shape[1]),feat_labels[indices], rotation=90)
 plt.xlim([-1, X_train.shape[1]])
 plt.tight_layout()
 plt.show()
+
+print("My name is {Jinhui Zhang}")
+print("My NetID is: {jinhuiz2}")
+print("I hereby certify that I have read the University policy on Academic Integrity and that I am not in violation.")
